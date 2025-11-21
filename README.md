@@ -1,1 +1,2 @@
-# Este projeto é uma Prova de Conceito (PoC) utilizando o framework Agno para criar um agente de IA interno, capaz de responder perguntas sobre políticas de reembolso e cancelamento da empresa.O objetivo é simular como um setor de atendimento, operações ou suporte interno poderia usar IA para esclarecer dúvidas rapidamente, com base em uma base de conhecimento estruturada.
+# Este projeto é uma Prova de Conceito (PoC)
+ utilizando o framework Agno para criar um agente de IA interno, capaz de responder perguntas sobre políticas de reembolso e cancelamento da empresa.O objetivo é simular como um setor de atendimento, operações ou suporte interno poderia usar IA para esclarecer dúvidas rapidamente, com base em uma base de conhecimento estruturada.
