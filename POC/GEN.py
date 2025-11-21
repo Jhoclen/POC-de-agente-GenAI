@@ -48,7 +48,7 @@ agent = Agent(
     instructions=[
         "Sempre consulte o csv antes de responder.",
         "Se a resposta não estiver no CSV, diga que não encontrou informação suficiente.",
-        "mude um pouco a forma de responder , não copie e cole oque esta na abse de dados"
+        "mude um pouco a forma de responder , não copie e cole oque esta na base de dados"
         
     ],
     markdown=True,
