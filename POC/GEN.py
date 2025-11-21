@@ -55,4 +55,4 @@ agent = Agent(
 )
 
 print("\n--- Agente de suporte Iniciado ---\n")
-agent.print_response("um cliente solicitou o reembolsoe depoisdo pedido ter saido para entraga e foi dado, porém n tinha erro no app e nem no restaurante  é certo isso?", stream=True)
+agent.print_response("um cliente  quer reembolso, mas o pedido já saiu para a entrega. Ainda é permitido?", stream=True)
